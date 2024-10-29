@@ -1,0 +1,40 @@
+# Maven
+target/
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+*.ipr
+*.iws
+# VS Code
+.vscode/
+# Eclipse
+.settings/
+.classpath
+.project
+
+# Gradle
+.gradle/
+build/
+
+# Spring Boot
+*.jar
+*.war
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Other
+*.swp
+*~
